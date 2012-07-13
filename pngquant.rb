@@ -3,7 +3,7 @@ require 'formula'
 class Pngquant < Formula
   url 'http://pngquant.org/pngquant.tar.bz2'
   homepage 'http://pngquant.org'
-  md5 'cd656350b831dda7aa14301b36beeed8'
+  md5 'a31310a1765eb0cf4f2eda8003643623'
   version '1.7.2'
 
   # Stripping results in malformed object error.
